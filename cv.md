@@ -23,6 +23,10 @@ I'm a junior AQA Engineer with **JavaScript**. I took manual QA courses and had 
   
 ## Education 
 *BSU - Sociology*
+
+## Experiance 
+
+*Sportswear.by* - Junior QA Engineer (07.2023-10.2023)
 ## Code Example 
 ```
 function sumArray(array) {
